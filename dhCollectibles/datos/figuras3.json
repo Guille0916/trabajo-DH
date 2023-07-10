@@ -1,0 +1,6 @@
+{
+    "marca":"Star Wars",
+    "nombre":["Luke Skywalker", "Scout Trooper", "Boba Fett", "DarkTrooper", "Kessel Run"," Jedi"," Ahsoka Tano"],
+    "precio":250.000,
+    "stock":200
+}

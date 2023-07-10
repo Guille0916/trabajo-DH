@@ -1,0 +1,8 @@
+{
+    "marca":"Hot Toys",
+    "nombre":["Spider-Man", "Hellboy", "Tony Stark", "Black Panther",
+    "Batman", "Captain America", "Superman "],
+    "precio":300.000,
+    "stock":100
+
+}
